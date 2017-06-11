@@ -1,7 +1,7 @@
 # C-for-System-Programming
 Projects for C programming class 
 
-HW 1 Number Systems:
+HW 1 Number Systems: 
     
         Interactive program that reads in and writes out integers in decimal, binary, and hexadecimal.
 
