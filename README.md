@@ -21,5 +21,5 @@ HW 6 AIDB File Format
     -- Program that can read an AIDB file and print out all the information contained in the file
 
 HW 7 Bits
-    -- Bit manipulation 
+    -- Bit manipulation  
 
