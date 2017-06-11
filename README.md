@@ -3,7 +3,7 @@ Projects for C programming class
 
 
 HW 1 Number Systems
--- Interactive program that reads in and writes out integers in decimal, binary, and hexadecimal
+    -- Interactive program that reads in and writes out integers in decimal, binary, and hexadecimal
 
 HW 2 Images
     -- Image Manipulation, 4 copies of the original positioned left and right and above and below, reflection across the y axis
