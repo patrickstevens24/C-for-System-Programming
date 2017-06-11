@@ -4,7 +4,7 @@ Projects for C programming class
 
 HW 1 --  Interactive program that reads in and writes out integers in decimal, binary, and hexadecimal
 
-HW 2 --  Image Manipulation 4 copies of the original positioned left and right and above and below reflection across the y axis
+HW 2 --  Image Manipulation, 4 copies of the original positioned left and right and above and below, reflection across the y axis
 
 HW 3 --  Program that reads in 10 annual report of baby names and creates csv file
 
